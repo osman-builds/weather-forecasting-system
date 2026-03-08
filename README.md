@@ -1,1 +1,1 @@
-# weather-forecasting-system-architecture
+# weather-forecasting-system

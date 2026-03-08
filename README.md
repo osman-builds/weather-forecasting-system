@@ -1,6 +1,6 @@
 # ⛅ SkyWatch – Weather Forecasting System
 
-**🌐 Live Demo → [https://osman-builds.github.io/weather-forecasting-system-architecture/](https://osman-builds.github.io/weather-forecasting-system-architecture/)**
+**🌐 Live Demo → [https://osman-builds.github.io/weather-forecasting-system/](https://osman-builds.github.io/weather-forecasting-system/)**
 
 A full-stack weather forecasting system: a beautiful, responsive **web app** deployed to GitHub Pages and a production-ready **REST API** built with Python and FastAPI.
 
@@ -14,7 +14,7 @@ A full-stack weather forecasting system: a beautiful, responsive **web app** dep
 
 The web app is deployed at:
 
-> **https://osman-builds.github.io/weather-forecasting-system-architecture/**
+> **https://osman-builds.github.io/weather-forecasting-system/**
 
 Features:
 - 🔍 Search any city worldwide
@@ -150,7 +150,7 @@ pytest
 
 | Component | Platform | URL |
 |-----------|----------|-----|
-| Web App | GitHub Pages | https://osman-builds.github.io/weather-forecasting-system-architecture/ |
+| Web App | GitHub Pages | https://osman-builds.github.io/weather-forecasting-system/ |
 | Backend API | Render.com / Docker | Deploy via `render.yaml` or `docker-compose.yml` |
 
 ---
